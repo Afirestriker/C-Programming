@@ -1,0 +1,26 @@
+
+Range (%d -signed int) is -2147483648 to 2147483647
+
+
+Range (%u -unsigned int) is 2147483648 to 2147483647  // 4294967292
+  
+
+Range (%ld -signed int long) is -2147483648 to 2147483647
+
+
+Range (%lu -unsigned int (long)) is 2147483648 to 2147483647
+
+
+Range (%lld -signed long long) is 9223372034707292160 to 403726925832
+
+
+Range (%llu -unsigned long long) is 9223372034707292160 to 403726925832
+
+
+Range (%hi -signed int short) is 0 to -1
+
+
+Range (%hu -unsigned int short) is 0 to 65535
+
+Process returned 0 (0x0)   execution time : 0.331 s
+Press any key to continue.
