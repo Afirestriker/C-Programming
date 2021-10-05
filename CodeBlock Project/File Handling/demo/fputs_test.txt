@@ -1,0 +1,3 @@
+This is Guru99 Tutorial on fputs,We don't need to use for loop
+Easier than fputc function
+this is fprintf 8 
