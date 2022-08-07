@@ -15,9 +15,9 @@ Keywords are pre-defined or reserved words in a programming language. Each keywo
 Identifiers are used as the general terminology for naming of variables, functions and arrays. These are user defined names consisting of arbitrarily long sequence of letters and digits with either a letter or the underscore(_) as a first character. Identifier names must differ in spelgitling and case from any keywords. You cannot use keywords as identifiers; they are reserved for special use. Once declared, you can use the identifier in later program statements to refer to the associated value. 
 
 **There are certain rules that should be followed while naming c identifiers:**
-•	They must begin with a letter or underscore(_).
-•	They must consist of only letters, digits, or underscore. No other special character is allowed.
-•	It should not be a keyword.
-•	It must not contain white space.
-•	It should be up to 31 characters long as only first 31 characters are significant.
+• They must begin with a letter or underscore(_).
+• They must consist of only letters, digits, or underscore. No other special character is allowed.
+• It should not be a keyword.
+• It must not contain white space.
+• It should be up to 31 characters long as only first 31 characters are significant.
 
